@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AlwaysActiveviya.aternos.me:49209",
+    "ip": "AlwaysActiveviya.aternos.me",
     "port": 49209,
     "version": "26.2",
     "try-creative": false

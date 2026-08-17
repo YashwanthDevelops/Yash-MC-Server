@@ -32,8 +32,9 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I Keep the Server On so be Respectful",
+        "I like to play Minecraft!",
+        "Yari keeps on dying! LOL"
       ]
     },
     "chat-log": true,
@@ -60,7 +61,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
